@@ -1,0 +1,54 @@
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.AssemblyReference.cache
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\BInarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\BInarySearch.AssemblyInfoInputs.cache
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\BInarySearch.AssemblyInfo.cs
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.CoreCompileInputs.cache
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\bin\Debug\net5.0\BInarySearch.exe
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\bin\Debug\net5.0\BInarySearch.deps.json
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\bin\Debug\net5.0\BInarySearch.runtimeconfig.json
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\bin\Debug\net5.0\BInarySearch.runtimeconfig.dev.json
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\bin\Debug\net5.0\BInarySearch.dll
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\bin\Debug\net5.0\ref\BInarySearch.dll
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\bin\Debug\net5.0\BInarySearch.pdb
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\BInarySearch.dll
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\ref\BInarySearch.dll
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\BInarySearch.pdb
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\BInarySearch.genruntimeconfig.cache
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Artur\22.C# learning\BInarySearch\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.CopyComplete
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.exe
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.deps.json
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.runtimeconfig.json
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.runtimeconfig.dev.json
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.dll
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\ref\BInarySearch.dll
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.pdb
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.AssemblyReference.cache
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.AssemblyInfoInputs.cache
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.AssemblyInfo.cs
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.CoreCompileInputs.cache
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.CopyComplete
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.dll
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\ref\BInarySearch.dll
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.pdb
+D:\Artur\22.C# learning\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.genruntimeconfig.cache
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.AssemblyInfoInputs.cache
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.AssemblyInfo.cs
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.CoreCompileInputs.cache
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.dll
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\ref\BInarySearch.dll
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.pdb
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.exe
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.deps.json
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.runtimeconfig.json
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.runtimeconfig.dev.json
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.dll
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\ref\BInarySearch.dll
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\BInarySearch.pdb
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.CopyComplete
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.genruntimeconfig.cache
+D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.AssemblyReference.cache
