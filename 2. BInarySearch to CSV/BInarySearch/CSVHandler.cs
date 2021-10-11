@@ -330,10 +330,10 @@ namespace BInarySearch
                 string strPosition = row[1];
                 string strData = row[2].Replace(" ", string.Empty );
                 byte[] btArray = CsvReader.ConvertToByteArray(strData);
-                System.Diagnostics.Debug.WriteLine(btArray.ToString());
+                //System.Diagnostics.Debug.WriteLine(btArray.ToString());
             }
                 
-            System.Diagnostics.Debug.WriteLine(row.ToString());
+            //System.Diagnostics.Debug.WriteLine(row.ToString());
 
         }
 

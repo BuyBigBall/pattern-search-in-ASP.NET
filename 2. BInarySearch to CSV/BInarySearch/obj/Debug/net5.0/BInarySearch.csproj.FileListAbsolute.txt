@@ -51,4 +51,3 @@ D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5
 D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.CopyComplete
 D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.genruntimeconfig.cache
-D:\Artur\22.C# learning\works\2. BInarySearch to CSV\BInarySearch\obj\Debug\net5.0\BInarySearch.csproj.AssemblyReference.cache

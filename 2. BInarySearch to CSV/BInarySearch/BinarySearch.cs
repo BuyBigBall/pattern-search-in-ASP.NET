@@ -86,6 +86,7 @@ namespace BInarySearch
                 {
                     List<int> newData = new List<int>();
                     var j = index;
+                    bool bFound = false;
                     while (true)
                     {
                         if (j * x86 >= searchArray.Length)
@@ -130,12 +131,17 @@ namespace BInarySearch
                         }
                         if (!bEqual)
                         {
+                            index += (retList.Count);
                             retList = new List<int>();
                             break;
                         }
                         else
                         {
                             retList.Add(val);
+                            //if (retList.Count > 10)
+                            //{
+                            //    System.Diagnostics.Debug.WriteLine(val);
+                            //}
                             if (searchPattern.Count== newData.Count)
                             {
                                 //retList = new List<int>();
@@ -157,11 +163,14 @@ namespace BInarySearch
                                     FindPosResult.data = retList;
                                     retFindResults.Add(FindPosResult);
                                 }
-                                index += (retList.Count * x86); index--;
+                                index += (retList.Count); index--;
+                                bFound = true;
                             }
                         }
                         //if (newData.Count >= searchPattern.Count) 
                         //    break;
+                        if (bFound) 
+                            break;
                         j++;
 
                     }
@@ -169,7 +178,7 @@ namespace BInarySearch
                     //if(index>934000) 
                     //    System.Diagnostics.Debug.Write(index + ",");
                 }
-                System.Diagnostics.Debug.WriteLine(",");
+                //System.Diagnostics.Debug.WriteLine(",");
             }
 
             FindPosition[] ret = retFindResults.ToArray();
